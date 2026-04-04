@@ -1,16 +1,21 @@
 ## Hi there 👋
+# 焦应行 / Resojot
 
-<!--
-**jiaoyingxing/jiaoyingxing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我正在开发一个 Obsidian 语音笔记插件：**Resojot（应声记）**。
 
-Here are some ideas to get you started:
+目前方向：
+- 录音 → 自动写入笔记
+- 多转写 provider
+- 本地离线转写支持
+- 导入已有音频识别
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+当前状态：
+- 主链路可用
+- 多 provider 架构已跑通
+- 本地离线路线已完成首轮真实联调
+
+项目主页：
+- Resojot（公开展示仓库）：后续补充
+
+联系方式：
+- 📕REDnote：1167756159  
