@@ -15,7 +15,7 @@
 - 本地离线路线已完成首轮真实联调
 
 项目主页：
-- Resojot（公开展示仓库）：后续补充
+- Resojot：[主页](https://github.com/jiaoyingxing/resojot/tree/main)
 
 联系方式：
 - 📕REDnote：1167756159  
