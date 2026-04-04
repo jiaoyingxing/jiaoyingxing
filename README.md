@@ -18,4 +18,4 @@
 - Resojot：[主页](https://github.com/jiaoyingxing/resojot/tree/main)
 
 联系方式：
-- 📕REDnote：[1167756159]（https://xhslink.com/m/3NOnIeagV9m）
+- 📕REDnote：[1167756159](https://xhslink.com/m/3NOnIeagV9m)
