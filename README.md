@@ -1,7 +1,7 @@
 ## Hi there 👋
-# 焦应行 / Resojot
+# 焦应行 / Jiao Yingxing
 
-Obsidian 语音笔记插件：**Resojot（应声记）**作者
+Obsidian 语音笔记插件：Resojot（应声记）作者
 
 项目主页：
 - Resojot：[主页](https://github.com/jiaoyingxing/resojot/tree/main)
