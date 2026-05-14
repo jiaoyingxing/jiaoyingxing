@@ -1,4 +1,4 @@
-# Hi, I'm Jiao Yingxing / 你好，我是焦应行
+# Hi, I'm Jiao Yingxing / 俺是焦应行
 
 I make Obsidian plugins, mostly because I want my own notes to feel easier to use every day.
 平时喜欢折腾 Obsidian，自己做插件其实特简单——就是因为自己用得不爽，想让每天的笔记体验更顺手一点。
