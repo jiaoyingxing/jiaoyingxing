@@ -1,39 +1,48 @@
-# Hi, I'm Jiao Yingxing / 俺是焦应行
+# 焦应行
 
-I make Obsidian plugins, mostly because I want my own notes to feel easier to use every day.
-平时喜欢折腾 Obsidian，自己做插件其实特简单——就是因为自己用得不爽，想让每天的笔记体验更顺手一点。
+做 Obsidian 插件，起因很简单：自己每天用，遇到不顺手的地方，就写插件解决。
 
-I like tools that feel friendly: less setup, fewer commands to remember, better mobile support, and a little more visual guidance when it helps.
-我比较偏爱那种“无感好用”的工具：少折腾设置，少记快捷键，手机上也能用，该有的图形引导也别省。
+很在意工具的启动速度和交互体验，做的插件手机上都能正常使用，而且不是电脑版的简单缩放，是针对手机重新调整过的。
 
-## Obsidian Plugins / Obsidian 插件
 
-### [Resojot](https://github.com/jiaoyingxing/resojot) / 应声记
+## 🧩 插件
 
-Resojot captures thoughts by voice first, then turns them into transcripts, polished text, and Markdown notes.
-想到就说，语音先记下来，剩下的转写、整理交给它，最后直接变成干净的 Markdown 笔记。
+| 插件 | 解决什么问题 | 怎么用 |
+|:---|:---|:---|
+| 🎙️ [Resojot](https://github.com/jiaoyingxing/resojot)  **应声记** | 没键盘时想快速记录 | 想到就说，语音先记下来，转写整理后直接变成 Markdown 笔记 |
+| 🤖 [Sidet](https://github.com/jiaoyingxing/sidet) **思得** | 在 Obsidian 里用 AI 太别扭 | 把 AI 对话放在主工作区，笔记、选区、网页直接带进上下文，聊完确认后写回笔记 |
+| 🟩 [Square](https://github.com/jiaoyingxing/square) **小方块** | 日常打卡要切到别的 App | 看着面板戳一下方块，数据直接写回 Markdown 项目笔记 |
+| ⚡ [Startup Optimizer](https://github.com/jiaoyingxing/startup-optimizer)**启动优化器** | 插件装多了启动慢 | 一张清单决定每个插件何时加载，减少开机卡顿 |
 
-### [Sidet](https://github.com/jiaoyingxing/sidet) / 思得
 
-Sidet brings AI chat closer to your notes, so conversations and useful results can stay inside your Obsidian workflow.
-把 AI 聊天框“焊”在 Obsidian 里，聊出的结果直接留在笔记流中，不用来回跳转。
+## 📮 联系
 
-### [Square](https://github.com/jiaoyingxing/square) / 小方块
+有反馈、需求、授权码或想聊产品，来小红书找我。
 
-Square is a visual habit tracker with very low mental load: see the board, tap a square, and keep records in Markdown.
-一个极低心理负担的打卡插件。看着面板，戳一下方块，数据稳稳存在 Markdown 里。
+- **小红书**：搜索「焦应行」，或 ID [1167756159](https://xhslink.com/m/3NOnIeagV9m)
+- 平时也在上面更新插件进度、设计思路和 Obsidian 工作流
 
-### [Startup Optimizer](https://github.com/jiaoyingxing/startup-optimizer) / 启动优化器
 
-Startup Optimizer helps plugin-heavy vaults feel smoother, especially on mobile, by loading less urgent plugins later.
-专治插件过多的“启动慢”。尤其是手机端，把不急用的插件往后挪挪，打开库丝滑很多。
+# Jiao Yingxing
 
-## Contact / 联系我
+I'm an Obsidian plugin developer.
 
-For feedback, licenses, product discussion, or early access to new builds, REDnote is usually the most direct place to reach me.
-如果有想法、想提需求、或者单纯想聊聊产品，来小红书找我最方便（ID 在下面）。
+I care about startup speed and interaction quality. Every plugin works well on mobile, and each one is rethought for phone use—not just a scaled-down desktop version.
 
-I also share plugin progress, design notes, and practical Obsidian workflows there.
-我平时也会在那儿更插件进度、设计思路和真实的 Obsidian 工作流。
 
-REDnote / 小红书: [1167756159](https://xhslink.com/m/3NOnIeagV9m)
+## 🧩 Plugins
+
+| Plugin | What it solves | How it works |
+|:---|:---|:---|
+| 🎙️ **Resojot** | Need to capture thoughts without a keyboard | Record voice first, then transcribe and polish into clean Markdown notes |
+| 🤖 **Sidet** | Using AI inside Obsidian feels clunky | Puts AI chat in the main workspace, brings notes, selections, and web content into context, writes results back after confirmation |
+| 🟩 **Square** | Daily tracking requires switching to another app | See the board, tap a square, records land directly in Markdown project notes |
+| ⚡ **Startup Optimizer** | Too many plugins slow down launch | A simple list to control when each plugin loads, reducing startup lag |
+
+
+## 📮 Contact
+
+For feedback, feature requests, licenses, or just to talk product, REDnote is usually the most direct place to reach me.
+
+- **REDnote**: Search "焦应行" or ID [1167756159](https://xhslink.com/m/3NOnIeagV9m)
+- I also share plugin progress, design notes, and practical Obsidian workflows there
