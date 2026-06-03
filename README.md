@@ -1,23 +1,25 @@
 # 焦应行
 
-做 Obsidian 插件，起因很简单：自己每天用，遇到不顺手的地方，就写插件解决。
-
-很在意工具的启动速度和交互体验，做的插件手机上都能正常使用，而且不是电脑版的简单缩放，是针对手机重新调整过的。
+我做的插件：
+- 每款都经过安卓、iOS、windows实机测试。
+- 均支持手机运行，为手机专门做了大量适配与优化。
+- 深度优化了加载项，运行速度极快，不影响Obsidian冷启动。
+- 注重细节与实际使用体验，少一点极客，多一点日常。
 
 
 ## 🧩 插件
 
-| 插件 | 解决什么问题 | 怎么用 |
+| 插件 | 类型 | 作用 |
 |:---|:---|:---|
-| 🎙️ [Resojot](https://github.com/jiaoyingxing/resojot)  **应声记** | 没键盘时想快速记录 | 想到就说，语音先记下来，转写整理后直接变成 Markdown 笔记 |
-| 🤖 [Sidet](https://github.com/jiaoyingxing/sidet) **思得** | 在 Obsidian 里用 AI 太别扭 | 把 AI 对话放在主工作区，笔记、选区、网页直接带进上下文，聊完确认后写回笔记 |
-| 🟩 [Square](https://github.com/jiaoyingxing/square) **小方块** | 日常打卡要切到别的 App | 看着面板戳一下方块，数据直接写回 Markdown 项目笔记 |
-| ⚡ [Startup Optimizer](https://github.com/jiaoyingxing/startup-optimizer)**启动优化器** | 插件装多了启动慢 | 一张清单决定每个插件何时加载，减少开机卡顿 |
+| 🔴 [Resojot](https://github.com/jiaoyingxing/resojot)  **应声记** | 口喷式记录 | 从开口到成文入库，全自动化，包含AI润色 |
+| 💬 [Sidet](https://github.com/jiaoyingxing/sidet) **思得** | 做交互最完整的AI插件 | 给你豆包元宝App般的流畅使用体验，完美适配手机 |
+| 🍞 [Square](https://github.com/jiaoyingxing/square) **小方块** | 兼容任何需要打卡的项目 | 完整打卡体系，数据直接存在 Obsidian |
+| ⚡ [Startup Optimizer](https://github.com/jiaoyingxing/startup-optimizer)**加载优化器** | 插件装多了启动慢 | 将Obsidian启动时间大幅缩短 |
 
 
 ## 📮 联系
 
-有反馈、需求、授权码或想聊产品，来小红书找我。
+来小红书找我。
 
 - **小红书**：搜索「焦应行」，或 ID [1167756159](https://xhslink.com/m/3NOnIeagV9m)
 - 平时也在上面更新插件进度、设计思路和 Obsidian 工作流
