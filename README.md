@@ -14,7 +14,7 @@
 | 🔴 [Resojot](https://github.com/jiaoyingxing/resojot)  **应声记** | 口喷式记录 | 从开口到成文入库，全自动化，包含AI润色 |
 | 💬 [Sidet](https://github.com/jiaoyingxing/sidet) **思得** | 做交互最完整的AI插件 | 给你豆包元宝App般的流畅使用体验，完美适配手机 |
 | 🍞 [Square](https://github.com/jiaoyingxing/square) **小方块** | 兼容任何需要打卡的项目 | 完整打卡体系，数据直接存在 Obsidian |
-| ⚡ [Startup Optimizer](https://github.com/jiaoyingxing/startup-optimizer)**加载优化器** | 插件装多了启动慢 | 将Obsidian启动时间大幅缩短 |
+| ⚡ [A Loader](https://github.com/jiaoyingxing/a-loader)**加载优化器** | 插件装多了启动慢 | 将Obsidian启动时间大幅缩短 |
 
 
 ## 📮 联系
