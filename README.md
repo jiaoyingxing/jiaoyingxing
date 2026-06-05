@@ -3,19 +3,19 @@
 我做的Obsidian插件：
 
 - 每款都经过安卓、iOS、windows实机测试。
-- 均支持手机运行，为手机专门做了大量适配与优化。
-- 深度优化了加载项，运行速度极快，不影响Obsidian冷启动。
+- 均支持手机运行，专门为手机做了大量适配与优化。
+- 深度调配了加载项，运行速度极快，不影响Obsidian冷启动。
 - 注重细节与实际使用体验，少一点极客，多一点日常。
 
 
 ## 🧩 插件
 
-| 插件 | 类型 | 作用 |
+| 插件 | 类型 | 附注 |
 |:---|:---|:---|
-| 🔴 [Resojot](https://github.com/jiaoyingxing/resojot)  **应声记** | 口喷式记录 | 从开口到成文入库，全自动化，包含AI润色 |
-| 💬 [Sidet](https://github.com/jiaoyingxing/sidet) **思得** | 做交互最完整的AI插件 | 给你豆包元宝App般的流畅使用体验，完美适配手机 |
-| 🍞 [Square](https://github.com/jiaoyingxing/square) **小方块** | 兼容任何需要打卡的项目 | 完整打卡体系，数据直接存在 Obsidian |
-| ⚡ [A Loader](https://github.com/jiaoyingxing/a-loader)**加载优化器** | 插件装多了启动慢 | 将Obsidian启动时间大幅缩短 |
+| 🔴 [Resojot](https://github.com/jiaoyingxing/resojot)  **应声记** | 口喷式记录 | 从开口到成文入库，全自动化，包含AI润色，目前已有**数百位付费用户** |
+| 💬 [Sidet](https://github.com/jiaoyingxing/sidet) **思得** | 做交互最完整的AI插件 | 给你豆包元宝App般的流畅使用体验，目前已有**近百位付费用户** |
+| 🍞 [Square](https://github.com/jiaoyingxing/square) **小方块** | 兼容任何需要打卡的项目 | 完整打卡体系，数据直接存在 Obsidian，免费 |
+| ⚡ [A Loader](https://github.com/jiaoyingxing/a-loader)**加载优化器** | 解决插件装太多启动慢 | 将Obsidian启动时间大幅缩短，免费 |
 
 
 ## 📮 联系
