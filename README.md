@@ -12,10 +12,10 @@
 
 | 插件 | 类型 | 附注 |
 |:---|:---|:---|
-| 🔴 [Resojot](https://github.com/jiaoyingxing/resojot)  **应声记** | 口喷式记录 | 从开口到成文入库，全自动化，包含AI润色，目前已有**数百位付费用户** |
-| 💬 [Sidet](https://github.com/jiaoyingxing/sidet) **思得** | 做交互最完整的AI插件 | 给你豆包元宝App般的流畅使用体验，目前已有**近百位付费用户** |
-| 🍞 [Square](https://github.com/jiaoyingxing/square) **小方块** | 兼容任何需要打卡的项目 | 完整打卡体系，数据直接存在 Obsidian，免费 |
-| ⚡ [A Loader](https://github.com/jiaoyingxing/a-loader)**加载优化器** | 解决插件装太多启动慢 | 将Obsidian启动时间大幅缩短，免费 |
+| 🔴 [Resojot](https://github.com/jiaoyingxing/resojot)  **应声记** | 做最实用的语音插件 | 从开口到成文入库，全自动化，包含AI润色，目前已有**数百位付费用户** |
+| 💬 [Sidet](https://github.com/jiaoyingxing/sidet) **思得** | 做交互最完整的AI插件 | 给你豆包元宝App般的流畅使用体验。 |
+| 🍞 [Square](https://github.com/jiaoyingxing/square) **小方块** | 让打卡既轻松又完整 | 极简交互，操作简单，界面美观。 |
+| ⚡ [A Loader](https://github.com/jiaoyingxing/a-loader)**加载优化器** | 解决插件装太多启动慢 | 将Obsidian启动时间大幅缩短。|
 
 
 ## 📮 联系
@@ -31,17 +31,6 @@
 I'm an Obsidian plugin developer.
 
 I care about startup speed and interaction quality. Every plugin works well on mobile, and each one is rethought for phone use—not just a scaled-down desktop version.
-
-
-## 🧩 Plugins
-
-| Plugin | What it solves | How it works |
-|:---|:---|:---|
-| 🎙️ **Resojot** | Need to capture thoughts without a keyboard | Record voice first, then transcribe and polish into clean Markdown notes |
-| 🤖 **Sidet** | Using AI inside Obsidian feels clunky | Puts AI chat in the main workspace, brings notes, selections, and web content into context, writes results back after confirmation |
-| 🟩 **Square** | Daily tracking requires switching to another app | See the board, tap a square, records land directly in Markdown project notes |
-| ⚡ **Startup Optimizer** | Too many plugins slow down launch | A simple list to control when each plugin loads, reducing startup lag |
-
 
 ## 📮 Contact
 
