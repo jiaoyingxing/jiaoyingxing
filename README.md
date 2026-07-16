@@ -16,7 +16,7 @@
 | 💬 [Sidet](https://github.com/jiaoyingxing/sidet) **思得** | 做交互最完整的AI插件 | 给你豆包元宝App般的流畅使用体验。 |
 | 🍞 [Square](https://github.com/jiaoyingxing/square) **小方块** | 让打卡既轻松又完整 | 极简交互，操作简单，界面美观。 |
 | ⚡ [A Loader](https://github.com/jiaoyingxing/a-loader)**加载优化器** | 解决插件装太多启动慢 | 将Obsidian启动时间大幅缩短。|
-| ☁  [EasySync](https://github.com/jiaoyingxing/easy-sync) **易同步** | 轻松且强大的同步插件 | Git 级的冲突处理，官方级的稳定，新手也能轻松用。 |
+| ☁  [EasySync](https://github.com/jiaoyingxing/easy-sync) **易同步** | 稳定且轻松的同步插件 | Git 级的冲突处理，官方级的稳定，小白也能秒上手。 |
 
 
 ## 📮 联系
